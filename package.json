@@ -1,0 +1,12 @@
+{
+    "name": "send_sms",
+    "version": "1.0.0",
+    "description": "Function to send SMS via Twilio provider",
+    "main": "func.js",
+    "author": "",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "@fnproject/fdk": "^0.0.41",
+        "twilio": "^3.82.2"
+    }
+}
